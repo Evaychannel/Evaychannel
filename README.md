@@ -1,1 +1,1 @@
-vless://976c72a2-b767-4109-b9a7-cb2900c158ef@titaniom.official.mmdtitaniom.com:443?mode=gun&security=reality&encryption=none&pbk=myOyTs6wtYgOioDwSzMCIUNRuq6l6I7ciLUqfusSTmY&fp=firefox&spx=%2F&type=grpc&serviceName=@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,@TITANIOM_OFFICIAL,&sni=sourceforge.net&sid=6fa697ff#Evay_vpn
+vless://0f55c4d5-f84e-4977-b40a-446863b603d3@v6.mhbss.cfd:6663?type=tcp&path=/&security=none&host=speedtest.net&headerType=http#srvV6-2230
